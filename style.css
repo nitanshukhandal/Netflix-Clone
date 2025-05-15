@@ -324,6 +324,11 @@ body {
   justify-content: space-between;
   align-items: center;
 }
+.faqbox:hover {
+  background-color: #3d3d3d;
+  cursor: pointer;
+  transition-duration: 0.3s;
+}
   
 .svg {
   margin-bottom: -10px;
@@ -426,7 +431,6 @@ a:link {
   font-size: 18px;
   line-height: 1;
 }
-
 .dropdown-icon {
   font-size: 18px;
   line-height: 1;
